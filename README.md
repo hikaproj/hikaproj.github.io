@@ -1,3 +1,3 @@
-# Hikaproj (Hikarijima Project)
+# Hikaproj
 > *ちょっとした開発でみんなを笑顔に！
 [Github](https://github.com/hikaproj)は、こちらから
